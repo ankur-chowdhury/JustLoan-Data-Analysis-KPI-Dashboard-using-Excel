@@ -1,59 +1,89 @@
-# -JustLoan-Data-Analysis-KPI-Dashboard-using-Excel
-📊 Loan Data Analysis & Dashboard (Excel Project)
-📌 Project Overview
+# 📊 JustLoan Data Analysis & Interactive Dashboard (Excel Project)
 
-This project involves end-to-end analysis of a structured loan dataset (1,000+ records) to evaluate borrower risk, credit trends, and loan distribution patterns using Microsoft Excel.
+## 📌 Project Overview
+This project involves end-to-end analysis of a structured loan dataset (1,000+ records) using Microsoft Excel to evaluate borrower risk, credit trends, loan distribution patterns, and performance KPIs.
 
-📂 Dataset Features
+The objective was to transform raw financial data into actionable insights through structured analysis and interactive dashboard reporting.
 
-Loan Application Date
+---
 
-Customer Demographics
+## 📂 Dataset Information
+The dataset includes the following key attributes:
 
-Credit Score
+- Loan Application Date  
+- Customer ID  
+- Department & Designation  
+- Credit Score  
+- Past Loans Count  
+- EMI Defaults  
+- Date of Birth  
+- New Loan Application Amount  
+- Loan Type  
 
-Past Loan History
+Total Records: 1000+  
 
-EMI Defaults
+---
 
-Loan Amount
+## 🧹 Data Preparation
+- Cleaned and structured raw dataset  
+- Handled missing/inconsistent values  
+- Standardized date formats  
+- Created calculated columns for analysis  
 
-Loan Type
+---
 
-📈 Key Analysis Performed
+## 📊 Key Analysis Performed
 
-Total Loan Disbursement KPI
+### 1️⃣ Loan Performance KPIs
+- Total Loan Disbursement
+- Loan Distribution by Type
+- Customer Count Analysis
 
-Department-wise Loan Allocation
+### 2️⃣ Risk & Credit Analysis
+- Average Credit Score by Segment
+- Default Rate Analysis
+- Risk Identification Based on Borrower History
 
-Average Credit Score Analysis
+### 3️⃣ Segmentation Analysis
+- Department-wise Loan Allocation
+- Borrower Pattern Identification
 
-Default Rate Evaluation
+### 4️⃣ Trend Analysis
+- Loan & Customer Count Trend Over Time
+- Monthly Application Insights
 
-Monthly Loan & Customer Trend Analysis
+---
 
-📊 Dashboard Features
+## 📈 Dashboard Features
+- Interactive KPI Dashboard
+- Pivot Table Aggregations
+- Dynamic Slicers for Filtering
+- Charts & Visual Trend Analysis
+- Risk & Performance Indicators
 
-Interactive KPI Monitoring
+The dashboard enables real-time filtering and structured insight generation for decision support.
 
-Pivot Tables & Aggregations
+---
 
-Dynamic Slicers
+## 🛠 Tools & Techniques Used
+- Microsoft Excel
+- Pivot Tables
+- Data Cleaning & Transformation
+- Advanced Formulas (IF, SUMIFS, XLOOKUP/VLOOKUP)
+- Conditional Formatting
+- Data Visualization & Dashboard Design
 
-Risk & Performance Visualization
+---
 
-🛠 Tools Used
+## 🎯 Key Outcomes
+- Identified high-risk borrower segments
+- Analyzed credit behavior patterns
+- Evaluated department-wise loan demand
+- Developed a structured reporting dashboard for business insights
 
-Microsoft Excel
+---
 
-Pivot Tables
+## 📌 Skills Demonstrated
+Data Analysis | Data Cleaning | Excel Analytics | Financial Data Analysis | Dashboard Development | Risk Analysis | Business Intelligence
 
-Data Cleaning
-
-Advanced Formulas (IF, SUMIFS, XLOOKUP)
-
-Data Visualization
-
-🎯 Outcome
-
-Enabled structured financial insight generation and borrower risk segmentation through interactive dashboard reporting.
+---
